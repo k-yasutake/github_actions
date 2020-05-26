@@ -14,7 +14,7 @@
           target="_blank"
           class="button--green"
         >
-          Documentationです
+          Documentationですyo
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
